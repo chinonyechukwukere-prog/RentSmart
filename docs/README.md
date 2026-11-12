@@ -1,0 +1,1 @@
+This folder contains RentSmart technical documentation, including the business problem, functional requirements, system architecture, Python implementation, qualification business rules, AI integration, testing, and project evaluation.
