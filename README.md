@@ -15,6 +15,7 @@ Renters often apply for properties without fully understanding the income and cr
 **RentSmart addresses this problem by providing a preliminary qualification assessment before the renter decides to apply.**
 
 ## How RentSmart Works
+![RentSmart Application Storyboard](screenshots/Appstoryboard.png)
 
 1. The renter selects a property from the available property records.
 2. The renter enters monthly income and credit score.
