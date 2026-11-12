@@ -1,4 +1,4 @@
-
+![RentSmart Project Cover](screenshots/rentsmartprojectcover.png)
 # RentSmart
 ### AI-Assisted Rental Qualification Decision Support System
 
