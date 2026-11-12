@@ -61,6 +61,10 @@ These are preliminary assessments, not official rental approval decisions.
 ## System Architecture
 ![RentSmart System Architecture](screenshots/System%20Architecture.png)
 
+### System Design
+
+![RentSmart System Design](screenshots/System%20design.png)
+
 Renter Input → CSV Property Requirements → Python Qualification Engine → Qualification Status → Gemini AI Explanation → Final Report
 
 The Python engine determines qualification status using predefined rules. Gemini explains the completed assessment without changing the decision.
