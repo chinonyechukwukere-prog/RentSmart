@@ -57,6 +57,7 @@ These are preliminary assessments, not official rental approval decisions.
 - **Exception Handling:** Input validation.
 
 ## System Architecture
+![RentSmart System Architecture](screenshots/System%20Architecture.png)
 
 Renter Input → CSV Property Requirements → Python Qualification Engine → Qualification Status → Gemini AI Explanation → Final Report
 
