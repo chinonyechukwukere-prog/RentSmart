@@ -38,6 +38,7 @@ Renters often apply for properties without fully understanding the income and cr
 | Qualification Report | Display pass/fail criteria, qualification status, and recommendations. |
 
 ## Qualification Outcomes
+![RentSmart Qualification Results](screenshots/Qualification%20results.png)
 
 **Likely Qualified:** Both income and credit requirements are met.
 
