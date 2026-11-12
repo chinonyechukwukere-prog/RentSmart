@@ -92,7 +92,7 @@ The Python engine determines qualification status using predefined rules. Gemini
 The system identifies the income shortfall and provides an AI-assisted explanation to help the renter understand the result.
 
 ## Project Documentation
-
+[View RentSmart Technical Report](docs/ISTM6200_ChinonyeChukwukere_RentSmartProject_Technical_Report_Template%20%281%29.pdf)
 This repository contains:
 
 - `python-code/` — Python application and supporting files.
