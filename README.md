@@ -93,6 +93,7 @@ The system identifies the income shortfall and provides an AI-assisted explanati
 
 ## Project Documentation
 [View RentSmart Technical Report](docs/ISTM6200_ChinonyeChukwukere_RentSmartProject_Technical_Report_Template%20%281%29.pdf)
+[View RentSmart PowerPoint Presentation](presentation/RentSmart_Complete_Presentation_With_Demos.pptx)
 This repository contains:
 
 - `python-code/` — Python application and supporting files.
